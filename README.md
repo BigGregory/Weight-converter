@@ -7,4 +7,4 @@ Just a simple weight converter from pounds into kilograms, grams and ounces.
 Vanilla JS with Bootstrap 4
 
 ## Reference on application:
-<https://biggregory.github.io/Weight_converter/>
+<https://biggregory.github.io/Weight-converter/>
